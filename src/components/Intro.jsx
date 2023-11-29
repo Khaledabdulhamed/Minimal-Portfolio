@@ -13,7 +13,7 @@ const Intro = () => {
      '>Khaled Abdulhamid</h1>
      <p className='text-base md:text-xl mb-3 font-medium'>Web Developer</p>
      <p className='text-sm max-w-xl mb-6 font-bold'>Dedicated Web Developer with more than
-      15+ projects on HitHub self learner and dedicated always learner</p>
+      15+ projects on Github dedicated </p>
      </div>
   )
 }
