@@ -1,6 +1,6 @@
 import React from 'react'
 import portfolio from '../data/portfolio'
-import PortfolioItem from './Portfolioitem'
+import PortfolioItem from './PortfolioItem'
 
 const Portfolio = () => {
   return (
