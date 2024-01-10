@@ -21,13 +21,29 @@ export default [
                 'Redux DevTools',
                 'Redux Saga', 'Redux Thunk', 'Redux ToolKit',
             'GraphQL', 'Responsive Design'  ],
-        link: 'https://github.com'
+        link: 'https://github.com/Khaledabdulhamed'
     },
     {
         title: 'Github Projects',
         imageUrl: '/assets/Git.png',
         stack: ['React', 'TailWind', 'Vite' ,'HTML', 'CSS', 'JavaScript'],
-        link: 'https://Netlify'
+        link: 'https://github.com/Khaledabdulhamed'
+    },
+    {
+        title: 'Full Stack Evently App',
+        imageUrl: '/assets/Evently.png' ,
+        stack: ['Nextjs V14' , 'TailWindCSS', 'TypeScript' ,
+        'Shadcn' , 'HTML', 'JavaScript', 'Clerk' ,'Serverless APIs', 'Webhooks' , 'Zod' , 'React Hook Form' , 'MongoDB' , 'Mongoose' , 'Stripe', 'UploadThing'],                
+         
+        link: 'https://heroic-florentine-541105.netlify.app/',
+    },
+    {
+        title: 'Full Stack Threads App',
+        imageUrl: '/assets/Threads.png' ,
+        stack: ['Nextjs V13' , 'MongoDB', 'TailWindCSS', 'TypeScript' ,
+        'Shadcn UI' , 'HTML', 'JavaScript', 'Clerk' , 'Serverless APIs' , 'Zod' , 'Webhooks' , 'React Hook Form' , 'Mongoose' , 'Stripe', 'UploadThing'],                
+         
+        link: 'https://github.com/Khaledabdulhamed/Threads-App',
     },
     {
         title: 'Master E-commerce Site',
@@ -41,6 +57,14 @@ export default [
         link: 'https://earnest-jelly-962cc5.netlify.app/'
     },
     {
+        title: 'Fully Responsive Modern UI/UX Website  Next.js 13, Tailwind CSS',
+        imageUrl: '/assets/master.png' ,
+        stack: ['React', 'Next.JS' , 'TailWindCSS', 'HTML' ,
+        'TypeScript'],
+        link: 'https://stellar-gnome-436702.netlify.app/'
+    },
+
+    {
         title: 'Work Ethics',
         imageUrl: '/assets/profile.jpeg',
         stack: ['Attendance',
@@ -51,7 +75,7 @@ export default [
         'Organizational Skill',
         'Productivity',
         'Respect',
-        'Teamwork', 'Accountability'  ],
+        'Teamwork', 'Accountability'],
         link: '/'
     },
 ]
