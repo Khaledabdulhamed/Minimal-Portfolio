@@ -58,7 +58,7 @@ export default [
     },
     {
         title: 'Fully Responsive Modern UI/UX Website  Next.js 13, Tailwind CSS',
-        imageUrl: '/assets/master.png' ,
+        imageUrl: '/assets/Travel.png' ,
         stack: ['React', 'Next.JS' , 'TailWindCSS', 'HTML' ,
         'TypeScript'],
         link: 'https://stellar-gnome-436702.netlify.app/'
