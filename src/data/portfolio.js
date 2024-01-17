@@ -63,6 +63,13 @@ export default [
         'TypeScript'],
         link: 'https://stellar-gnome-436702.netlify.app/'
     },
+    {
+        title: 'Full Stack Next.js 14 App Using React Framework',
+        imageUrl: '/assets/Prompotia.png' ,
+        stack: ['React', 'Next.JS' , 'TailWindCSS', 'HTML' ,
+        'JavaScript'],
+        link: 'https://chimerical-biscuit-173297.netlify.app/'
+    },
 
     {
         title: 'Work Ethics',
