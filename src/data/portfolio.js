@@ -1,35 +1,13 @@
 export default [
+   
     {
-        title: 'Skills Sets',
-        imageUrl: '/assets/Site.jpg',
-        stack: ['HTML', 'CSS', 'JavaScript',
-         'TypeScript', 'Sass', 'TailWind',
-          'React', 'Relational DataBase',
-           'jQuery', 'BootStrap', 'Git', 
-           'GitHub', 'APIs', 'MongoDB', 
-           'Mongoose', 'Node JS','SQL',
-            'JSX', 'NPM', 
-            'Functional Components', 
-            'Styled-Components', 
-            'React Hooks', 'Context APIs',
-             'State Managment',
-              'React Router',
-               'React Query', 
-               'FireBase and Firestore',
-                'Async await Functions',
-                 'Netlify', 'Reducers', 'Redux', 'Middlewares',
-                'Redux DevTools',
-                'Redux Saga', 'Redux Thunk', 'Redux ToolKit',
-            'GraphQL', 'Responsive Design'  ],
-        link: 'https://github.com/Khaledabdulhamed'
+        title: ' A HealthCare Management System Full Stack Next.js 14 App using TypeScript',
+        imageUrl: '/assets/CarePulse.png' ,
+        stack: ['React', 'Next.JS' , 'TailWindCSS', 'ShadCN UI' ,
+        'JavaScript', 'AppWrite' , 'Twilio'],
+        link: 'https://chimerical-biscuit-173297.netlify.app/'
     },
-    {
-        title: 'Github Projects',
-        imageUrl: '/assets/Git.png',
-        stack: ['React', 'TailWind', 'Vite' ,'HTML', 'CSS', 'JavaScript'],
-        link: 'https://github.com/Khaledabdulhamed'
-    },
-    {
+      {
         title: 'Full Stack Evently App',
         imageUrl: '/assets/Evently.png' ,
         stack: ['Nextjs V14' , 'TailWindCSS', 'TypeScript' ,
@@ -69,6 +47,36 @@ export default [
         stack: ['React', 'Next.JS' , 'TailWindCSS', 'HTML' ,
         'JavaScript'],
         link: 'https://chimerical-biscuit-173297.netlify.app/'
+    },
+    {
+        title: 'Skills Sets',
+        imageUrl: '/assets/Site.jpg',
+        stack: ['HTML', 'CSS', 'JavaScript',
+         'TypeScript', 'Sass', 'TailWind',
+          'React', 'Relational DataBase',
+           'jQuery', 'BootStrap', 'Git', 
+           'GitHub', 'APIs', 'MongoDB', 
+           'Mongoose', 'Node JS','SQL',
+            'JSX', 'NPM', 
+            'Functional Components', 
+            'Styled-Components', 
+            'React Hooks', 'Context APIs',
+             'State Managment',
+              'React Router',
+               'React Query', 
+               'FireBase and Firestore',
+                'Async await Functions',
+                 'Netlify', 'Reducers', 'Redux', 'Middlewares',
+                'Redux DevTools',
+                'Redux Saga', 'Redux Thunk', 'Redux ToolKit',
+            'GraphQL', 'Responsive Design'  ],
+        link: 'https://github.com/Khaledabdulhamed'
+    },
+    {
+        title: 'Github Projects',
+        imageUrl: '/assets/Git.png',
+        stack: ['React', 'TailWind', 'Vite' ,'HTML', 'CSS', 'JavaScript'],
+        link: 'https://github.com/Khaledabdulhamed'
     },
 
     {
